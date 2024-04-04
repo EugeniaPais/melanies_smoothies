@@ -1,1 +1,1 @@
-Streamlit app overview.
+Streamlit app basics.
